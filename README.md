@@ -1,4 +1,5 @@
 # Table Schema
+![Table Diagram](https://github.com/parthbagda211/database-tasks/blob/branch/tables.png)
 
 
 # Tables 
